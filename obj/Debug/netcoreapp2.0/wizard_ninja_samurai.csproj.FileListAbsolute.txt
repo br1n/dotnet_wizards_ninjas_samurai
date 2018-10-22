@@ -1,0 +1,3 @@
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/wizard_ninja_samurai/obj/Debug/netcoreapp2.0/wizard_ninja_samurai.csproj.CoreCompileInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/wizard_ninja_samurai/obj/Debug/netcoreapp2.0/wizard_ninja_samurai.AssemblyInfoInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/wizard_ninja_samurai/obj/Debug/netcoreapp2.0/wizard_ninja_samurai.AssemblyInfo.cs
